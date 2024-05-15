@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Oey thoai',
     btnNo: 'khong khong khong',
     question: 'Thì coi như cái này là lời cầu hôn trước đi',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi cho anh',
     reply: 'Em muốn cưới anh, em sẽ đi làm nuôi anhhhhhhh',
     mess: 'Oey anh đồng ý cưới em rồi đó anh yêu em nhìu nhìu.',
     messDesc: 'Em mặc váy vào đii anh chở em đi ăn kem nà.',
