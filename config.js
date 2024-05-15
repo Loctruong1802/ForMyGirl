@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Oey anh đồng ý cưới em rồi đó anh yêu em nhìu nhìu.',
     messDesc: 'Em mặc váy vào đii anh chở em đi ăn kem nà.',
     btnAccept: 'Oeyy aaa',
-    messLink: 'https://www.facebook.com/messages/e2ee/t/25359973216951353'
+    messLink: 'https://www.facebook.com/messages/t/hoangloc.truong.353'
 }
